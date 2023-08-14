@@ -37,6 +37,7 @@ function Expenses(props) {
             date={expense.date}
           />
         ))}
+        <h1>HELLO</h1>
       </Card>
     </div>
   );
